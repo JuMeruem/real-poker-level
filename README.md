@@ -18,7 +18,7 @@ Créé et développé par **Julien Moal**, ce système est actuellement **testé
 
 ## 🎯 Objectif
 
-> Créer un classement qui reflète la performance réelle d’un joueur de poker, indépendamment des buy-ins ou des gains financiers.
+Créer un classement qui reflète la performance réelle d’un joueur de poker, indépendamment des buy-ins ou des gains financiers.
 
 Le RPL corrige les limites des systèmes existants :
 
