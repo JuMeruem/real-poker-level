@@ -238,4 +238,4 @@ C’est aussi un moyen de donner un peu plus de sens à nos soirées poker, et a
 
 **Alors, Good Luck et rendez-vous au sommet du classement !** ♠️♥️♦️♣️
 
-— Julien Moal
+Julien Moal
