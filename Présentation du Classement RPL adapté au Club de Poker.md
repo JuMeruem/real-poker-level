@@ -1,4 +1,5 @@
 # 🃏 Le Classement RPL : "Real Poker Level"
+https://docs.google.com/document/d/1V_GwuTZA6urY5fv1WS-5_KIm0S_91NLzZ2aLIVPp3LY/edit?usp=sharing
 
 Salut à tous,
 
