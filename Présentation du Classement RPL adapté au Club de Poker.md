@@ -144,7 +144,6 @@ Le RPL offre enfin ce qu’on attendait depuis 20 ans :
 
 Le calcul de la nouvelle cote suit ce principe :
 **Nouveau RPL = R + K × (S − E)**
-![Equation RPL](https://drive.google.com/file/d/1_ghkRPqT30w7HlRutM_A07HeMzoyPs4D/view)
 
 | Variable | Description |
 |----------|-------------|
